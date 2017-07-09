@@ -1,5 +1,5 @@
 
-// Assignment 2: udpListener.h
+// udpListener.h
 // Purpose: This header file contains the function headers for the functions 
 //	declared in the udpListener.c file. Please see the .c file for 
 // 	detailed explanations of implementation.

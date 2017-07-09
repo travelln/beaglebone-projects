@@ -1,5 +1,5 @@
 /* ****************************************************************************** */
-// Assignment 2: udpListener.c
+// udpListener.c
 // Purpose: This module creates a non-blocking thread that listens for UDP packets
 //	     sent from a client and will then respond to commands issued by the user.
 //	     These commands will allow the user to control the running of the 
@@ -7,7 +7,7 @@
 //	     calculated by this process.
 //
 //	Usage:  "count"   -- show # primes found.
-//		"get 10"  -- display prime # 10.
+//		    "get 10"  -- display prime # 10.
 //	        "last 2"  -- display the last 2 primes found.
 //	        "first 5" -- display the first 5 primes found.
 //	        "stop"    -- cause the server program to end.

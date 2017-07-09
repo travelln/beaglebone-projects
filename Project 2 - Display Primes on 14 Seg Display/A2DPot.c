@@ -1,6 +1,7 @@
 /* ****************************************************************************** */
-// Assignment 2: A2DPot.c
-// Purpose: This module creates a non-blocking thread that
+// A2DPot.c
+// Purpose: This module creates a non-blocking thread that increases or decreases the amount of 
+//           primes to be found -> speed is determined by turning the dial on the beaglebone cape.
 //
 //
 //

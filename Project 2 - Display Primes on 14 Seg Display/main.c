@@ -1,6 +1,6 @@
 
-// Assignment 2: main.c
-// Purpose: This main module calls the 
+// main.c
+// Purpose: This main module calls the child processes. 
 //
 // Author: Sunny Pritpal Singh (301244872)
 // Class: CMPT 433 Embedded Systems @SFU

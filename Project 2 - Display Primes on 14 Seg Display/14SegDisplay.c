@@ -1,5 +1,5 @@
 /* ****************************************************************************** */
-// Assignment 2: FourteenSegDisplay.c
+// FourteenSegDisplay.c
 // Purpose: This module will display to the 14 segment display, integer values
 //		from 0-99.
 //

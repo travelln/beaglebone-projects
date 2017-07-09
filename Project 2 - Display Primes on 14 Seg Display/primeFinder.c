@@ -1,8 +1,8 @@
 
-// Assignment 2: primeFinder.c
+// primeFinder.c
 // Purpose: This module will create a thread that can be used to search for prime
 //          numbers greater than a specified taget value (defined below these comments).
-//	    A struct data structure is used internally to hold all primes found from the 
+//	        A struct data structure is used internally to hold all primes found from the 
 //          execution of this module and will be deallocated when the stop function is called.
 //
 // Author: Sunny Pritpal Singh (301244872)

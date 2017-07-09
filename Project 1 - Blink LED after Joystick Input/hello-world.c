@@ -1,5 +1,5 @@
 
-//Assignment 1: hello-world.c
+//hello-world.c
 //Purpose: Access GPIO and LED lights on the BeagleBone.
 //         If the joysitck is in the neutral position the program
 //         will flash the boards LED light once, if the joystick

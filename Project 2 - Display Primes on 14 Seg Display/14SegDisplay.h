@@ -1,5 +1,5 @@
 
-// Assignment 2: FourteenSegDisplay.h
+// FourteenSegDisplay.h
 // Purpose: This header file contains the function headers for the functions 
 //	declared in the 14SegDisplay.c file. Please see the .c file for 
 // 	detailed explanations of implementation.

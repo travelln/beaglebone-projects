@@ -16,4 +16,4 @@ Various projects that utilize low level hardware instructions to interface with 
  	* This driver also outputs stats to /proc/morse-code
 	 * example usage: echo hello world > /dev/morse-code
 
-* Project 5 - 
+* Project 5 -  Baremetal application that uses the watchdog timer,led, joystick and user input to flash leds and display options to the user.

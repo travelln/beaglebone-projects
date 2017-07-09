@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+	<title>BeagleBone Beat-Box</title>
+	<link rel='stylesheet' href='/stylesheets/style.css'></link>
+</head>
+
+<body>
+	<div id='content'>
+		<h1>BeagleBone Beat-Box</h1>
+
+		<p>
+			Play a sound
+			<form id='send-form' >
+				<input type="button" id="btnHihat" value="Hi-Hat"/>
+				<input type="button" id="btnSnare" value="Snare"/>
+				<input type="button" id="btnBass"  value="Bass"/>
+			</form>
+		</p>
+
+		<p>
+			Current Mode = <span id="modeDisplay"></span>
+			<form id='send-form' >
+				<input type="button" id="btnNone" value="0 - None"/>
+				<input type="button" id="btnMode1" value="1 - Standard Rock"/>
+				<input type="button" id="btnMode2"  value="2 - Beat #2"/>
+				<input type="button" id="btnMode3"  value="3 - Beat #3"/>
+			</form>
+		</p>
+		
+		<p>
+			<button id="btnVolumeUp">+</button>Volume = <span id="volumeDisplay"></span>
+			<button id="btnVolumeDown">-</button>
+		</p>
+		<p>
+			<button id="btnTempoUp">+</button>Tempo = <span id="tempoDisplay"></span>
+			<button id="btnTempoDown">-</button>
+		</p>
+		<p>
+			Uptime = <span id="uptimeDisplay"></span>
+		</p>
+	</div>
+	
+	<script src='/socket.io/socket.io.js' type='text/javascript'></script>
+	<script src='http://code.jquery.com/jquery-1.8.0.min.js' type='text/javascript'></script>
+	<script src='javascripts/udp_ui.js' type='text/javascript'></script>
+</body>
+</html>

@@ -1,0 +1,1205 @@
+Archive member included because of file (symbol)
+
+/home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+                              Debug/timers.o (DMTimerEnable)
+/home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+                              Debug/leds.o (GPIOModuleReset)
+/home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+                              Debug/serial.o (UARTOperatingModeSelect)
+/home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+                              Debug/timers.o (WatchdogTimerEnable)
+/home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+                              Debug/serial.o (ConsoleUtilsSetType)
+/home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+                              /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o) (UARTStdioInit)
+/home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(ascii.o)
+                              /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o) (ASCIIToDigit)
+/home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(dmtimer.o)
+                              Debug/timers.o (DMTimer2ModuleClkConfig)
+/home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(gpio.o)
+                              Debug/leds.o (GPIO1ModuleClkConfig)
+/home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uart.o)
+                              Debug/serial.o (UARTPinMuxSetup)
+/home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uartConsole.o)
+                              /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o) (UARTConsoleInit)
+/home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(watchdog.o)
+                              Debug/timers.o (WatchdogTimer1ModuleClkConfig)
+/home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(init.o)
+                              (Entry)
+/home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+                              Debug/serial.o (IntRegister)
+/home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(startup.o)
+                              /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(init.o) (start_boot)
+/home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cp15.o)
+                              /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(startup.o) (CP15VectorBaseAddrSet)
+/home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cpu.o)
+                              /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o) (CPUIntStatus)
+/home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(exceptionhandler.o)
+                              /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(startup.o) (IRQHandler)
+/home/sunny/cmpt433/linaro-gcc/gcc-arm-none-eabi-4_7-2012q4/lib/gcc/arm-none-eabi/4.7.3//libgcc.a(_udivsi3.o)
+                              (__aeabi_uidiv)
+/home/sunny/cmpt433/linaro-gcc/gcc-arm-none-eabi-4_7-2012q4/lib/gcc/arm-none-eabi/4.7.3//libgcc.a(_divsi3.o)
+                              (__aeabi_idiv)
+/home/sunny/cmpt433/linaro-gcc/gcc-arm-none-eabi-4_7-2012q4/lib/gcc/arm-none-eabi/4.7.3//libgcc.a(_dvmd_tls.o)
+                              /home/sunny/cmpt433/linaro-gcc/gcc-arm-none-eabi-4_7-2012q4/lib/gcc/arm-none-eabi/4.7.3//libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+
+Allocating common symbols
+Common symbol       size              file
+
+fnRAMVectors        0x200             /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 Debug/fakeTyper.o
+ .data          0x00000000        0x0 Debug/fakeTyper.o
+ .bss           0x00000000        0x0 Debug/fakeTyper.o
+ .text.FakeTyper_setMessage
+                0x00000000       0x2c Debug/fakeTyper.o
+ .text          0x00000000        0x0 Debug/joystick.o
+ .data          0x00000000        0x0 Debug/joystick.o
+ .bss           0x00000000        0x0 Debug/joystick.o
+ .text.GPIO2ModuleClkConfig
+                0x00000000       0xbc Debug/joystick.o
+ .text.readButtonWithStarteWare
+                0x00000000       0x3c Debug/joystick.o
+ .text          0x00000000        0x0 Debug/leds.o
+ .data          0x00000000        0x0 Debug/leds.o
+ .bss           0x00000000        0x0 Debug/leds.o
+ .text.driveLedsWithBitTwiddling
+                0x00000000       0x98 Debug/leds.o
+ .text          0x00000000        0x0 Debug/main.o
+ .data          0x00000000        0x0 Debug/main.o
+ .bss           0x00000000        0x0 Debug/main.o
+ .text          0x00000000        0x0 Debug/serial.o
+ .data          0x00000000        0x0 Debug/serial.o
+ .bss           0x00000000        0x0 Debug/serial.o
+ .text          0x00000000        0x0 Debug/timers.o
+ .data          0x00000000        0x0 Debug/timers.o
+ .bss           0x00000000        0x0 Debug/timers.o
+ .text          0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .data          0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .bss           0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .text.DMTimerPreScalerClkEnable
+                0x00000000       0xcc /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .text.DMTimerCounterGet
+                0x00000000       0x60 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .text.DMTimerReloadGet
+                0x00000000       0x2c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .text.DMTimerGPOConfigure
+                0x00000000       0xcc /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .text.DMTimerCompareSet
+                0x00000000       0x64 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .text.DMTimerCompareGet
+                0x00000000       0x2c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .text.DMTimerIntRawStatusSet
+                0x00000000       0x34 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .text.DMTimerIntRawStatusGet
+                0x00000000       0x2c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .text.DMTimerIntStatusGet
+                0x00000000       0x2c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .text.DMTimerTriggerSet
+                0x00000000       0x60 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .text.DMTimerIntEnableGet
+                0x00000000       0x2c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .text.DMTimerResetConfigure
+                0x00000000       0x60 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .text.DMTimerReset
+                0x00000000       0x54 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .text.DMTimerContextSave
+                0x00000000       0xb8 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .text.DMTimerContextRestore
+                0x00000000      0x160 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .text.DMTimerPostedModeConfig
+                0x00000000       0x60 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .text          0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .data          0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .bss           0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.GPIOModuleDisable
+                0x00000000       0x38 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.GPIODirModeGet
+                0x00000000       0x5c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.GPIOPinRead
+                0x00000000       0x40 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.GPIOMultiplePinsWrite
+                0x00000000       0x44 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.GPIOMultiplePinsRead
+                0x00000000       0x38 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.GPIOPinIntEnable
+                0x00000000       0x64 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.GPIOPinIntDisable
+                0x00000000       0x64 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.GPIOIntTypeSet
+                0x00000000      0x564 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.GPIOIntTypeGet
+                0x00000000      0x120 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.GPIOPinIntStatus
+                0x00000000       0x84 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.GPIOPinIntClear
+                0x00000000       0x64 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.GPIORawIntStatus
+                0x00000000       0x74 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.GPIOTriggerPinInt
+                0x00000000       0x64 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.GPIOWakeupGlobalEnable
+                0x00000000       0x38 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.GPIOWakeupGlobalDisable
+                0x00000000       0x38 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.GPIOPinIntWakeUpEnable
+                0x00000000       0x84 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.GPIOPinIntWakeUpDisable
+                0x00000000       0x8c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.GPIOAutoIdleModeControl
+                0x00000000       0x60 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.GPIOIdleModeConfigure
+                0x00000000       0x60 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.GPIOGatingRatioConfigure
+                0x00000000       0x60 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.GPIODebounceFuncControl
+                0x00000000       0x78 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.GPIODebounceTimeConfig
+                0x00000000       0x34 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.GPIORevisionInfoGet
+                0x00000000       0x28 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.gpioContextSave
+                0x00000000       0x5c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text.gpioContextRestore
+                0x00000000       0x5c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .text          0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .data          0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .bss           0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTDivisorLatchEnable
+                0x00000000       0x38 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTRegConfModeRestore
+                0x00000000       0x30 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTParityModeSet
+                0x00000000       0x60 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTParityModeGet
+                0x00000000       0x30 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTFIFOConfig
+                0x00000000      0x480 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTDMAEnable
+                0x00000000       0x80 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTDMADisable
+                0x00000000       0x54 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTFIFORegisterWrite
+                0x00000000       0xc0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTEnhanFuncEnable
+                0x00000000       0x88 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTEnhanFuncBitValRestore
+                0x00000000       0x8c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTSubConfigMSRSPRModeEn
+                0x00000000      0x124 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTSubConfigTCRTLRModeEn
+                0x00000000      0x124 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTSubConfigXOFFModeEn
+                0x00000000      0x124 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTTCRTLRBitValRestore
+                0x00000000      0x128 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTIntDisable
+                0x00000000      0x110 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTSpaceAvail
+                0x00000000       0x78 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTCharsAvail
+                0x00000000       0x78 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTCharGet
+                0x00000000       0x84 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTCharGetTimeout
+                0x00000000       0xac /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTFIFOCharPut
+                0x00000000       0x30 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTFIFOCharGet
+                0x00000000       0x30 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTFIFOWrite
+                0x00000000       0x78 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTRxErrorGet
+                0x00000000       0x6c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTIntPendingStatusGet
+                0x00000000       0x78 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTFIFOEnableStatusGet
+                0x00000000       0x78 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTAutoRTSAutoCTSControl
+                0x00000000       0xb4 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTSpecialCharDetectControl
+                0x00000000       0x8c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTSoftwareFlowCtrlOptSet
+                0x00000000       0x8c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTPulseShapingControl
+                0x00000000       0x60 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTIdleModeConfigure
+                0x00000000       0x60 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTWakeUpControl
+                0x00000000       0x60 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTAutoIdleModeControl
+                0x00000000       0x60 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTFlowCtrlTrigLvlConfig
+                0x00000000       0x60 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTXON1XOFF1ValProgram
+                0x00000000       0x4c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTXON2XOFF2ValProgram
+                0x00000000       0x4c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTXONAnyFeatureControl
+                0x00000000      0x100 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTLoopbackModeControl
+                0x00000000       0x60 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTModemControlSet
+                0x00000000       0x44 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTModemControlClear
+                0x00000000       0x48 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTModemStatusGet
+                0x00000000       0x30 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTModemStatusChangeCheck
+                0x00000000       0x30 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTResumeOperation
+                0x00000000       0x28 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTWakeUpEventsEnable
+                0x00000000       0x44 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTWakeUpEventsDisable
+                0x00000000       0x48 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTFIFOTrigLvlGranControl
+                0x00000000       0x88 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTDSRInterruptControl
+                0x00000000       0x60 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTTxEmptyIntControl
+                0x00000000       0x60 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTRXCTSDSRWakeUpConfigure
+                0x00000000       0x60 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTRXCTSDSRTransitionStatusGet
+                0x00000000       0x30 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTDMACounterResetControl
+                0x00000000       0x60 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTTxFIFOFullStatusGet
+                0x00000000       0x30 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTTxFIFOLevelGet
+                0x00000000       0x2c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTRxFIFOLevelGet
+                0x00000000       0x2c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTAutobaudParityGet
+                0x00000000       0x6c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTAutobaudWordLenGet
+                0x00000000       0x6c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTAutobaudSpeedGet
+                0x00000000       0x6c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTScratchPadRegWrite
+                0x00000000       0x60 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTScratchPadRegRead
+                0x00000000       0x30 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTModuleVersionNumberGet
+                0x00000000       0x30 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTTxDMAThresholdControl
+                0x00000000       0x60 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text.UARTTxDMAThresholdValConfig
+                0x00000000       0x60 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .text          0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .data          0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .bss           0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .text.WatchdogTimerRevisionIDGet
+                0x00000000       0x28 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .text.WatchdogTimerPreScalerClkEnable
+                0x00000000       0xa8 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .text.WatchdogTimerCounterSet
+                0x00000000       0x50 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .text.WatchdogTimerCounterGet
+                0x00000000       0x2c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .text.WatchdogTimerReloadGet
+                0x00000000       0x2c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .text.WatchdogTimerDelaySet
+                0x00000000       0x50 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .text.WatchdogTimerDelayGet
+                0x00000000       0x2c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .text.WatchdogTimerIntRawStatusSet
+                0x00000000       0x34 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .text.WatchdogTimerIntRawStatusGet
+                0x00000000       0x2c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .text.WatchdogTimerIntStatusGet
+                0x00000000       0x2c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .text.WatchdogTimerIntStatusClear
+                0x00000000       0x34 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .text.WatchdogTimerIntEnable
+                0x00000000       0x34 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .text.WatchdogTimerIntEnableStatusGet
+                0x00000000       0x2c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .text.WatchdogTimerIntDisable
+                0x00000000       0x34 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .text          0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+ .data          0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+ .bss           0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+ .text.ConsoleUtilsInit
+                0x00000000       0x18 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+ .text.ConsoleUtilsScanf
+                0x00000000       0x80 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+ .text.ConsoleUtilsGets
+                0x00000000       0x74 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+ .text.ConsoleUtilsPuts
+                0x00000000       0x60 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+ .text.ConsoleUtilsGetChar
+                0x00000000       0xa8 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+ .text          0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .data          0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .bss           0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .text.UARTStdioInit
+                0x00000000       0x18 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .text.UARTStdioRead
+                0x00000000       0xd0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .text.UARTGets
+                0x00000000       0xdc /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .text.UARTPutNum
+                0x00000000      0x178 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .text.UARTPutHexNum
+                0x00000000      0x198 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .text.UARTGetNum
+                0x00000000      0x118 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .text.UARTGetHexNum
+                0x00000000      0x2ec /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .text.UARTGetc
+                0x00000000       0x20 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .text.UARTprintf
+                0x00000000      0x6b8 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .text.UARTScanf
+                0x00000000      0xa68 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .text          0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(ascii.o)
+ .data          0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(ascii.o)
+ .bss           0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(ascii.o)
+ .text.ASCIIToDigit
+                0x00000000       0xe8 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(ascii.o)
+ .text.DigitToASCII
+                0x00000000       0xb8 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(ascii.o)
+ .text.StrToEthrAddr
+                0x00000000      0x184 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(ascii.o)
+ .text.EthrAddrToStr
+                0x00000000      0x180 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(ascii.o)
+ .text.TimeToStr
+                0x00000000      0x18c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(ascii.o)
+ .text.DateToStr
+                0x00000000      0x18c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(ascii.o)
+ .debug_info    0x00000000      0x289 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(ascii.o)
+ .debug_abbrev  0x00000000       0xce /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(ascii.o)
+ .debug_loc     0x00000000      0x108 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(ascii.o)
+ .debug_aranges
+                0x00000000       0x48 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(ascii.o)
+ .debug_ranges  0x00000000       0x38 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(ascii.o)
+ .debug_line    0x00000000      0x1a6 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(ascii.o)
+ .debug_str     0x00000000      0x198 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(ascii.o)
+ .comment       0x00000000       0x71 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(ascii.o)
+ .ARM.attributes
+                0x00000000       0x37 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(ascii.o)
+ .debug_frame   0x00000000       0xb0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(ascii.o)
+ .text          0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(dmtimer.o)
+ .data          0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(dmtimer.o)
+ .bss           0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(dmtimer.o)
+ .text.DMTimer3ModuleClkConfig
+                0x00000000      0x260 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(dmtimer.o)
+ .text.DMTimer4ModuleClkConfig
+                0x00000000      0x268 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(dmtimer.o)
+ .text.DMTimer6ModuleClkConfig
+                0x00000000       0xc4 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(dmtimer.o)
+ .text.DMTimer7ModuleClkConfig
+                0x00000000      0x260 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(dmtimer.o)
+ .text.DMTimer1msModuleClkConfig
+                0x00000000       0xd8 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(dmtimer.o)
+ .text          0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(gpio.o)
+ .data          0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(gpio.o)
+ .bss           0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(gpio.o)
+ .text.GPIO1Pin23PinMuxSetup
+                0x00000000       0x24 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(gpio.o)
+ .text.GPIO0ModuleClkConfig
+                0x00000000      0x148 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(gpio.o)
+ .text.GPIO1PinMuxSetup
+                0x00000000       0x38 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(gpio.o)
+ .text.GpioPinMuxSetup
+                0x00000000       0x34 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(gpio.o)
+ .text          0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uart.o)
+ .data          0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uart.o)
+ .bss           0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uart.o)
+ .text          0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uartConsole.o)
+ .data          0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uartConsole.o)
+ .bss           0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uartConsole.o)
+ .text.UARTStdioInitExpClk
+                0x00000000       0xd0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uartConsole.o)
+ .text.UartFIFOConfigure
+                0x00000000       0x64 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uartConsole.o)
+ .text.UartBaudRateSet
+                0x00000000       0x5c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uartConsole.o)
+ .text.UARTConsoleInit
+                0x00000000       0x44 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uartConsole.o)
+ .text.UARTConsoleGetc
+                0x00000000       0x2c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uartConsole.o)
+ .text          0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(watchdog.o)
+ .data          0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(watchdog.o)
+ .bss           0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(watchdog.o)
+ .data          0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(init.o)
+ .bss           0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(init.o)
+ .text          0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .data          0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .bss           0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntUnRegister
+                0x00000000       0x34 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntSystemDisable
+                0x00000000       0x4c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntIfClkFreeRunSet
+                0x00000000       0x30 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntIfClkAutoGateSet
+                0x00000000       0x30 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntActiveIrqNumGet
+                0x00000000       0x28 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntSpurIrqFlagGet
+                0x00000000       0x28 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntProtectionEnable
+                0x00000000       0x24 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntProtectionDisable
+                0x00000000       0x30 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntSyncClkFreeRunSet
+                0x00000000       0x30 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntSyncClkAutoGateSet
+                0x00000000       0x30 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntFuncClkFreeRunSet
+                0x00000000       0x30 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntFuncClkAutoGateSet
+                0x00000000       0x30 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntCurrIrqPriorityGet
+                0x00000000       0x28 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntPriorityThresholdGet
+                0x00000000       0x28 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntPriorityThresholdSet
+                0x00000000       0x30 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntRawStatusGet
+                0x00000000       0x5c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntSoftwareIntSet
+                0x00000000       0x48 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntSoftwareIntClear
+                0x00000000       0x48 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntPendingIrqMaskedStatusGet
+                0x00000000       0x58 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntMasterIRQDisable
+                0x00000000       0x18 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntMasterFIQEnable
+                0x00000000       0x18 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntMasterFIQDisable
+                0x00000000       0x18 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntMasterStatusGet
+                0x00000000       0x20 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntDisable
+                0x00000000       0x3c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntEnable
+                0x00000000       0x38 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text          0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(startup.o)
+ .data          0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(startup.o)
+ .bss           0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(startup.o)
+ .data          0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cp15.o)
+ .bss           0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cp15.o)
+ .text          0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cpu.o)
+ .data          0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cpu.o)
+ .bss           0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cpu.o)
+ .text.CPUSwitchToPrivilegedMode
+                0x00000000       0x18 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cpu.o)
+ .text.CPUSwitchToUserMode
+                0x00000000       0x24 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cpu.o)
+ .text.CPUAbortHandler
+                0x00000000       0x14 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cpu.o)
+ .text.CPUIntStatus
+                0x00000000       0x2c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cpu.o)
+ .text.CPUirqd  0x00000000       0x24 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cpu.o)
+ .text.CPUfiqd  0x00000000       0x24 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cpu.o)
+ .text.CPUfiqe  0x00000000       0x24 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cpu.o)
+ .data          0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(exceptionhandler.o)
+ .bss           0x00000000        0x0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(exceptionhandler.o)
+ .data          0x00000000        0x0 /home/sunny/cmpt433/linaro-gcc/gcc-arm-none-eabi-4_7-2012q4/lib/gcc/arm-none-eabi/4.7.3//libgcc.a(_udivsi3.o)
+ .bss           0x00000000        0x0 /home/sunny/cmpt433/linaro-gcc/gcc-arm-none-eabi-4_7-2012q4/lib/gcc/arm-none-eabi/4.7.3//libgcc.a(_udivsi3.o)
+ .data          0x00000000        0x0 /home/sunny/cmpt433/linaro-gcc/gcc-arm-none-eabi-4_7-2012q4/lib/gcc/arm-none-eabi/4.7.3//libgcc.a(_divsi3.o)
+ .bss           0x00000000        0x0 /home/sunny/cmpt433/linaro-gcc/gcc-arm-none-eabi-4_7-2012q4/lib/gcc/arm-none-eabi/4.7.3//libgcc.a(_divsi3.o)
+ .data          0x00000000        0x0 /home/sunny/cmpt433/linaro-gcc/gcc-arm-none-eabi-4_7-2012q4/lib/gcc/arm-none-eabi/4.7.3//libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 /home/sunny/cmpt433/linaro-gcc/gcc-arm-none-eabi-4_7-2012q4/lib/gcc/arm-none-eabi/4.7.3//libgcc.a(_dvmd_tls.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+DDR0             0x80000000         0x10000000
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD Debug/fakeTyper.o
+LOAD Debug/joystick.o
+LOAD Debug/leds.o
+LOAD Debug/main.o
+LOAD Debug/serial.o
+LOAD Debug/timers.o
+LOAD /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a
+LOAD /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a
+LOAD /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a
+LOAD /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a
+LOAD /home/sunny/cmpt433/linaro-gcc/gcc-arm-none-eabi-4_7-2012q4/arm-none-eabi/lib//libc.a
+LOAD /home/sunny/cmpt433/linaro-gcc/gcc-arm-none-eabi-4_7-2012q4/lib/gcc/arm-none-eabi/4.7.3//libgcc.a
+LOAD /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a
+LOAD /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a
+LOAD /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a
+LOAD /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a
+LOAD /home/sunny/cmpt433/linaro-gcc/gcc-arm-none-eabi-4_7-2012q4/arm-none-eabi/lib//libc.a
+LOAD /home/sunny/cmpt433/linaro-gcc/gcc-arm-none-eabi-4_7-2012q4/lib/gcc/arm-none-eabi/4.7.3//libgcc.a
+
+.startcode      0x80000000       0xbc
+                0x80000000                . = ALIGN (0x4)
+ *init.o(.text)
+ .text          0x80000000       0xbc /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(init.o)
+                0x80000000                Entry
+
+.text           0x800000bc     0x3d44
+                0x800000bc                . = ALIGN (0x4)
+ *(.text*)
+ .text.FakeTyper_init
+                0x800000bc       0x14 Debug/fakeTyper.o
+                0x800000bc                FakeTyper_init
+ .text.FakeTyper_notifyOnTimeIsr
+                0x800000d0       0x24 Debug/fakeTyper.o
+                0x800000d0                FakeTyper_notifyOnTimeIsr
+ .text.FakeTyper_doBackgroundWork
+                0x800000f4       0x9c Debug/fakeTyper.o
+                0x800000f4                FakeTyper_doBackgroundWork
+ .text.readButtonWithBitTwiddling
+                0x80000190       0x50 Debug/joystick.o
+                0x80000190                readButtonWithBitTwiddling
+ .text.initializeLeds
+                0x800001e0       0xb0 Debug/leds.o
+                0x800001e0                initializeLeds
+ .text.driveLedsWithSWFunction
+                0x80000290       0xc8 Debug/leds.o
+                0x80000290                driveLedsWithSWFunction
+ .text.driveLedsWithSetAndClear
+                0x80000358       0x84 Debug/leds.o
+                0x80000358                driveLedsWithSetAndClear
+ .text.busyWait
+                0x800003dc       0x44 Debug/leds.o
+                0x800003dc                busyWait
+ .text.main     0x80000420      0x230 Debug/main.o
+                0x80000420                main
+ .text.Serial_init
+                0x80000650       0xdc Debug/serial.o
+                0x80000650                Serial_init
+ .text.Serial_doBackgroundWork
+                0x8000072c      0x1ec Debug/serial.o
+                0x8000072c                Serial_doBackgroundWork
+ .text.UartBaudRateSet
+                0x80000918       0x5c Debug/serial.o
+ .text.UartInterruptEnable
+                0x80000974       0x7c Debug/serial.o
+ .text.UARTIsr  0x800009f0       0x98 Debug/serial.o
+ .text.Timers_timerInit
+                0x80000a88       0x7c Debug/timers.o
+                0x80000a88                Timers_timerInit
+ .text.Timers_isIsrFlagSet
+                0x80000b04       0x28 Debug/timers.o
+                0x80000b04                Timers_isIsrFlagSet
+ .text.Timers_clearIsrFlag
+                0x80000b2c       0x24 Debug/timers.o
+                0x80000b2c                Timers_clearIsrFlag
+ .text.DMTimerIsr
+                0x80000b50       0x70 Debug/timers.o
+ .text.DMTimerAintcConfigure
+                0x80000bc0       0x4c Debug/timers.o
+ .text.DMTimerSetUp
+                0x80000c0c       0x5c Debug/timers.o
+ .text.Timers_watchdogInit
+                0x80000c68       0x84 Debug/timers.o
+                0x80000c68                Timers_watchdogInit
+ .text.Timers_hitWatchdog
+                0x80000cec       0x4c Debug/timers.o
+                0x80000cec                Timers_hitWatchdog
+ .text.DMTimerEnable
+                0x80000d38       0x6c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+                0x80000d38                DMTimerEnable
+ .text.DMTimerDisable
+                0x80000da4       0x6c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+                0x80000da4                DMTimerDisable
+ .text.DMTimerModeConfigure
+                0x80000e10       0xcc /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+                0x80000e10                DMTimerModeConfigure
+ .text.DMTimerPreScalerClkDisable
+                0x80000edc       0x6c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+                0x80000edc                DMTimerPreScalerClkDisable
+ .text.DMTimerCounterSet
+                0x80000f48       0x64 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+                0x80000f48                DMTimerCounterSet
+ .text.DMTimerReloadSet
+                0x80000fac       0x64 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+                0x80000fac                DMTimerReloadSet
+ .text.DMTimerIntStatusClear
+                0x80001010       0x34 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+                0x80001010                DMTimerIntStatusClear
+ .text.DMTimerIntEnable
+                0x80001044       0x34 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+                0x80001044                DMTimerIntEnable
+ .text.DMTimerIntDisable
+                0x80001078       0x34 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+                0x80001078                DMTimerIntDisable
+ .text.DMTimerWritePostedStatusGet
+                0x800010ac       0x2c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+                0x800010ac                DMTimerWritePostedStatusGet
+ .text.GPIOModuleReset
+                0x800010d8       0x54 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+                0x800010d8                GPIOModuleReset
+ .text.GPIOModuleEnable
+                0x8000112c       0x38 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+                0x8000112c                GPIOModuleEnable
+ .text.GPIODirModeSet
+                0x80001164       0x88 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+                0x80001164                GPIODirModeSet
+ .text.GPIOPinWrite
+                0x800011ec       0x64 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+                0x800011ec                GPIOPinWrite
+ .text.UARTOperatingModeSelect
+                0x80001250       0x84 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+                0x80001250                UARTOperatingModeSelect
+ .text.UARTDivisorValCompute
+                0x800012d4      0x104 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+                0x800012d4                UARTDivisorValCompute
+ .text.UARTDivisorLatchWrite
+                0x800013d8      0x210 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+                0x800013d8                UARTDivisorLatchWrite
+ .text.UARTDivisorLatchDisable
+                0x800015e8       0x38 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+                0x800015e8                UARTDivisorLatchDisable
+ .text.UARTRegConfigModeEnable
+                0x80001620       0x9c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+                0x80001620                UARTRegConfigModeEnable
+ .text.UARTBreakCtl
+                0x800016bc       0x60 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+                0x800016bc                UARTBreakCtl
+ .text.UARTLineCharacConfig
+                0x8000171c       0xa4 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+                0x8000171c                UARTLineCharacConfig
+ .text.UARTIntEnable
+                0x800017c0      0x130 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+                0x800017c0                UARTIntEnable
+ .text.UARTCharPutNonBlocking
+                0x800018f0       0x8c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+                0x800018f0                UARTCharPutNonBlocking
+ .text.UARTCharGetNonBlocking
+                0x8000197c       0x80 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+                0x8000197c                UARTCharGetNonBlocking
+ .text.UARTCharPut
+                0x800019fc       0x78 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+                0x800019fc                UARTCharPut
+ .text.UARTIntIdentityGet
+                0x80001a74       0x6c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+                0x80001a74                UARTIntIdentityGet
+ .text.UARTModuleReset
+                0x80001ae0       0x54 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+                0x80001ae0                UARTModuleReset
+ .text.WatchdogTimerEnable
+                0x80001b34       0x80 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+                0x80001b34                WatchdogTimerEnable
+ .text.WatchdogTimerDisable
+                0x80001bb4       0x80 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+                0x80001bb4                WatchdogTimerDisable
+ .text.WatchdogTimerReset
+                0x80001c34       0x54 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+                0x80001c34                WatchdogTimerReset
+ .text.WatchdogTimerPreScalerClkDisable
+                0x80001c88       0x58 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+                0x80001c88                WatchdogTimerPreScalerClkDisable
+ .text.WatchdogTimerReloadSet
+                0x80001ce0       0x50 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+                0x80001ce0                WatchdogTimerReloadSet
+ .text.WatchdogTimerTriggerSet
+                0x80001d30       0x50 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+                0x80001d30                WatchdogTimerTriggerSet
+ .text.WatchdogTimerWritePostedStatusGet
+                0x80001d80       0x38 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+                0x80001d80                WatchdogTimerWritePostedStatusGet
+ .text.ConsoleUtilsSetType
+                0x80001db8       0x54 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+                0x80001db8                ConsoleUtilsSetType
+ .text.ConsoleUtilsPrintf
+                0x80001e0c       0x6c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+                0x80001e0c                ConsoleUtilsPrintf
+ .text.ConsoleUtilsPutChar
+                0x80001e78       0x60 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+                0x80001e78                ConsoleUtilsPutChar
+ .text.UARTPuts
+                0x80001ed8       0xec /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+                0x80001ed8                UARTPuts
+ .text.UARTPutc
+                0x80001fc4       0x30 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+                0x80001fc4                UARTPutc
+ .text.UARTwrite
+                0x80001ff4       0x94 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+                0x80001ff4                UARTwrite
+ .text.UARTPrintf
+                0x80002088      0x6ac /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+                0x80002088                UARTPrintf
+ .text.DMTimer2ModuleClkConfig
+                0x80002734      0x260 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(dmtimer.o)
+                0x80002734                DMTimer2ModuleClkConfig
+ .text.GPIO1ModuleClkConfig
+                0x80002994       0xbc /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(gpio.o)
+                0x80002994                GPIO1ModuleClkConfig
+ .text.UARTPinMuxSetup
+                0x80002a50       0x48 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uart.o)
+                0x80002a50                UARTPinMuxSetup
+ .text.UART0ModuleClkConfig
+                0x80002a98      0x35c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uart.o)
+                0x80002a98                UART0ModuleClkConfig
+ .text.UARTConsolePutc
+                0x80002df4       0x38 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uartConsole.o)
+                0x80002df4                UARTConsolePutc
+ .text.WatchdogTimer1ModuleClkConfig
+                0x80002e2c      0x248 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(watchdog.o)
+                0x80002e2c                WatchdogTimer1ModuleClkConfig
+ .text.IntDefaultHandler
+                0x80003074       0x14 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .text.IntRegister
+                0x80003088       0x34 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+                0x80003088                IntRegister
+ .text.IntAINTCInit
+                0x800030bc       0x90 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+                0x800030bc                IntAINTCInit
+ .text.IntPrioritySet
+                0x8000314c       0x50 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+                0x8000314c                IntPrioritySet
+ .text.IntSystemEnable
+                0x8000319c       0x4c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+                0x8000319c                IntSystemEnable
+ .text.IntMasterIRQEnable
+                0x800031e8       0x18 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+                0x800031e8                IntMasterIRQEnable
+ .text.start_boot
+                0x80003200       0x24 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(startup.o)
+                0x80003200                start_boot
+ .text.CopyVectorTable
+                0x80003224       0x98 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(startup.o)
+ .text          0x800032bc      0x488 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cp15.o)
+                0x800032bc                CP15ICacheDisable
+                0x800032d8                CP15DCacheDisable
+                0x800032f4                CP15ICacheEnable
+                0x80003304                CP15DCacheEnable
+                0x80003314                CP15DCacheFlush
+                0x800033a8                CP15DCacheClean
+                0x8000343c                CP15DCacheCleanFlush
+                0x800034d0                CP15ICacheFlush
+                0x800034e0                CP15DCacheCleanBuff
+                0x80003534                CP15DCacheCleanFlushBuff
+                0x80003588                CP15DCacheFlushBuff
+                0x800035ec                CP15ICacheFlushBuff
+                0x80003640                CP15Ttb0Set
+                0x8000364c                CP15TlbInvalidate
+                0x80003658                CP15MMUDisable
+                0x80003670                CP15MMUEnable
+                0x80003684                CP15VectorBaseAddrSet
+                0x80003690                CP15BranchPredictorInvalidate
+                0x8000369c                CP15BranchPredictionEnable
+                0x800036ac                CP15BranchPredictionDisable
+                0x800036bc                CP15DomainAccessClientSet
+                0x800036cc                CP15ControlFeatureDisable
+                0x800036e0                CP15ControlFeatureEnable
+                0x800036f4                CP15TtbCtlTtb0Config
+                0x80003704                CP15AuxControlFeatureEnable
+                0x80003718                CP15AuxControlFeatureDisable
+                0x8000372c                CP15MainIdPrimPartNumGet
+ .text.CPUirqe  0x80003744       0x24 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cpu.o)
+                0x80003744                CPUirqe
+ .text          0x80003768       0xf0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(exceptionhandler.o)
+                0x80003768                SVC_Handler
+                0x80003790                IRQHandler
+                0x8000383c                FIQHandler
+                0x80003840                UndefInstHandler
+                0x80003840                AbortHandler
+ .text          0x80003858      0x114 /home/sunny/cmpt433/linaro-gcc/gcc-arm-none-eabi-4_7-2012q4/lib/gcc/arm-none-eabi/4.7.3//libgcc.a(_udivsi3.o)
+                0x80003858                __udivsi3
+                0x80003858                __aeabi_uidiv
+                0x8000394c                __aeabi_uidivmod
+ .text          0x8000396c      0x148 /home/sunny/cmpt433/linaro-gcc/gcc-arm-none-eabi-4_7-2012q4/lib/gcc/arm-none-eabi/4.7.3//libgcc.a(_divsi3.o)
+                0x8000396c                __aeabi_idiv
+                0x8000396c                __divsi3
+                0x80003a94                __aeabi_idivmod
+ .text          0x80003ab4        0x4 /home/sunny/cmpt433/linaro-gcc/gcc-arm-none-eabi-4_7-2012q4/lib/gcc/arm-none-eabi/4.7.3//libgcc.a(_dvmd_tls.o)
+                0x80003ab4                __aeabi_ldiv0
+                0x80003ab4                __aeabi_idiv0
+ *(.rodata*)
+ .rodata        0x80003ab8      0x174 Debug/main.o
+ .rodata        0x80003c2c       0xe4 Debug/serial.o
+ .rodata        0x80003d10       0x50 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+ .rodata        0x80003d60       0x60 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .rodata.g_pcHex
+                0x80003dc0        0x4 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .rodata.AM335X_VECTOR_BASE
+                0x80003dc4        0x4 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(startup.o)
+                0x80003dc4                AM335X_VECTOR_BASE
+ .rodata.vecTbl
+                0x80003dc8       0x38 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(startup.o)
+
+.glue_7         0x80003e00        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x80003e00        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x80003e00        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x80003e00        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x80003e00        0x0
+ .iplt          0x00000000        0x0 Debug/fakeTyper.o
+
+.rel.dyn        0x80003e00        0x0
+ .rel.iplt      0x00000000        0x0 Debug/fakeTyper.o
+
+.data           0x80003e00        0x0
+                0x80003e00                . = ALIGN (0x4)
+ *(.data*)
+
+.igot.plt       0x80003e00        0x0
+ .igot.plt      0x00000000        0x0 Debug/fakeTyper.o
+
+.bss            0x80003e00      0x214
+                0x80003e00                . = ALIGN (0x4)
+                0x80003e00                _bss_start = .
+ *(.bss*)
+ .bss.isTimeToPrintChar
+                0x80003e00        0x1 Debug/fakeTyper.o
+ *fill*         0x80003e01        0x3 00
+ .bss.message   0x80003e04        0x4 Debug/fakeTyper.o
+                0x80003e04                message
+ .bss.rxByte    0x80003e08        0x1 Debug/serial.o
+ .bss.flagIsr   0x80003e09        0x1 Debug/timers.o
+ *fill*         0x80003e0a        0x2 00
+ .bss.triggerCounter.4281
+                0x80003e0c        0x4 Debug/timers.o
+ .bss.ConsoleType
+                0x80003e10        0x1 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+ *(COMMON)
+ *fill*         0x80003e11        0x3 00
+ COMMON         0x80003e14      0x200 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+                0x80003e14                fnRAMVectors
+                0x80004014                _bss_end = .
+
+.heap           0x80004014      0x800
+                0x80004014                . = ALIGN (0x4)
+                0x80004014                __end__ = .
+                0x80004014                end = __end__
+                0x80004014                __HeapBase = __end__
+ *(.heap*)
+                0x80004814                . = (. + 0x800)
+ *fill*         0x80004014      0x800 00
+                0x80004814                __HeapLimit = .
+
+.stack          0x80004814  0x7fffff8
+                0x80004814                . = ALIGN (0x4)
+                0x80004814                __StackLimit = .
+ *(.stack*)
+                0x8800480c                . = (. + 0x7fffff8)
+ *fill*         0x80004814  0x7fffff8 00
+                0x8800480c                __StackTop = .
+                0x8800480c                _stack = __StackTop
+OUTPUT(Debug/lightBouncer.out elf32-littlearm)
+
+.debug_info     0x00000000     0x41df
+ .debug_info    0x00000000       0xd1 Debug/fakeTyper.o
+ .debug_info    0x000000d1       0xf0 Debug/joystick.o
+ .debug_info    0x000001c1      0x11d Debug/leds.o
+ .debug_info    0x000002de       0x92 Debug/main.o
+ .debug_info    0x00000370      0x148 Debug/serial.o
+ .debug_info    0x000004b8      0x123 Debug/timers.o
+ .debug_info    0x000005db      0x5d0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .debug_info    0x00000bab      0x7b3 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .debug_info    0x0000135e     0x14ab /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .debug_info    0x00002809      0x45c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .debug_info    0x00002c65      0x29a /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+ .debug_info    0x00002eff      0x69a /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .debug_info    0x00003599       0xd3 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(dmtimer.o)
+ .debug_info    0x0000366c       0xdd /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(gpio.o)
+ .debug_info    0x00003749       0x7e /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uart.o)
+ .debug_info    0x000037c7      0x156 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uartConsole.o)
+ .debug_info    0x0000391d       0x55 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(watchdog.o)
+ .debug_info    0x00003972       0xb1 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(init.o)
+ .debug_info    0x00003a23      0x46f /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .debug_info    0x00003e92       0xe0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(startup.o)
+ .debug_info    0x00003f72       0xb1 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cp15.o)
+ .debug_info    0x00004023       0xf8 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cpu.o)
+ .debug_info    0x0000411b       0xc4 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(exceptionhandler.o)
+
+.debug_abbrev   0x00000000     0x1061
+ .debug_abbrev  0x00000000       0xaa Debug/fakeTyper.o
+ .debug_abbrev  0x000000aa       0x94 Debug/joystick.o
+ .debug_abbrev  0x0000013e       0xb5 Debug/leds.o
+ .debug_abbrev  0x000001f3       0x60 Debug/main.o
+ .debug_abbrev  0x00000253       0xad Debug/serial.o
+ .debug_abbrev  0x00000300       0xb1 Debug/timers.o
+ .debug_abbrev  0x000003b1      0x122 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .debug_abbrev  0x000004d3      0x124 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .debug_abbrev  0x000005f7      0x14e /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .debug_abbrev  0x00000745      0x108 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .debug_abbrev  0x0000084d      0x156 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+ .debug_abbrev  0x000009a3      0x186 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .debug_abbrev  0x00000b29       0x7a /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(dmtimer.o)
+ .debug_abbrev  0x00000ba3       0x7a /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(gpio.o)
+ .debug_abbrev  0x00000c1d       0x62 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uart.o)
+ .debug_abbrev  0x00000c7f       0xa3 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uartConsole.o)
+ .debug_abbrev  0x00000d22       0x39 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(watchdog.o)
+ .debug_abbrev  0x00000d5b       0x14 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(init.o)
+ .debug_abbrev  0x00000d6f      0x1c2 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .debug_abbrev  0x00000f31       0xa4 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(startup.o)
+ .debug_abbrev  0x00000fd5       0x14 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cp15.o)
+ .debug_abbrev  0x00000fe9       0x64 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cpu.o)
+ .debug_abbrev  0x0000104d       0x14 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(exceptionhandler.o)
+
+.debug_loc      0x00000000     0x2ca8
+ .debug_loc     0x00000000       0xb0 Debug/fakeTyper.o
+ .debug_loc     0x000000b0       0x84 Debug/joystick.o
+ .debug_loc     0x00000134       0xdc Debug/leds.o
+ .debug_loc     0x00000210       0x2c Debug/main.o
+ .debug_loc     0x0000023c       0xdc Debug/serial.o
+ .debug_loc     0x00000318      0x160 Debug/timers.o
+ .debug_loc     0x00000478      0x478 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .debug_loc     0x000008f0      0x4fc /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .debug_loc     0x00000dec      0xcb8 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .debug_loc     0x00001aa4      0x39c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .debug_loc     0x00001e40      0x178 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+ .debug_loc     0x00001fb8      0x274 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .debug_loc     0x0000222c      0x108 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(dmtimer.o)
+ .debug_loc     0x00002334       0xdc /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(gpio.o)
+ .debug_loc     0x00002410       0x58 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uart.o)
+ .debug_loc     0x00002468      0x108 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uartConsole.o)
+ .debug_loc     0x00002570       0x2c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(watchdog.o)
+ .debug_loc     0x0000259c      0x554 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .debug_loc     0x00002af0       0x58 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(startup.o)
+ .debug_loc     0x00002b48      0x160 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cpu.o)
+
+.debug_aranges  0x00000000      0xa58
+ .debug_aranges
+                0x00000000       0x38 Debug/fakeTyper.o
+ .debug_aranges
+                0x00000038       0x30 Debug/joystick.o
+ .debug_aranges
+                0x00000068       0x40 Debug/leds.o
+ .debug_aranges
+                0x000000a8       0x20 Debug/main.o
+ .debug_aranges
+                0x000000c8       0x40 Debug/serial.o
+ .debug_aranges
+                0x00000108       0x58 Debug/timers.o
+ .debug_aranges
+                0x00000160       0xe8 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .debug_aranges
+                0x00000248      0x100 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .debug_aranges
+                0x00000348      0x268 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .debug_aranges
+                0x000005b0       0xc0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .debug_aranges
+                0x00000670       0x58 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+ .debug_aranges
+                0x000006c8       0x88 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .debug_aranges
+                0x00000750       0x48 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(dmtimer.o)
+ .debug_aranges
+                0x00000798       0x40 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(gpio.o)
+ .debug_aranges
+                0x000007d8       0x28 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uart.o)
+ .debug_aranges
+                0x00000800       0x48 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uartConsole.o)
+ .debug_aranges
+                0x00000848       0x20 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(watchdog.o)
+ .debug_aranges
+                0x00000868       0x20 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(init.o)
+ .debug_aranges
+                0x00000888      0x110 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .debug_aranges
+                0x00000998       0x28 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(startup.o)
+ .debug_aranges
+                0x000009c0       0x20 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cp15.o)
+ .debug_aranges
+                0x000009e0       0x58 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cpu.o)
+ .debug_aranges
+                0x00000a38       0x20 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(exceptionhandler.o)
+
+.debug_ranges   0x00000000      0x8b8
+ .debug_ranges  0x00000000       0x28 Debug/fakeTyper.o
+ .debug_ranges  0x00000028       0x20 Debug/joystick.o
+ .debug_ranges  0x00000048       0x30 Debug/leds.o
+ .debug_ranges  0x00000078       0x10 Debug/main.o
+ .debug_ranges  0x00000088       0x30 Debug/serial.o
+ .debug_ranges  0x000000b8       0x48 Debug/timers.o
+ .debug_ranges  0x00000100       0xd8 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .debug_ranges  0x000001d8       0xf0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .debug_ranges  0x000002c8      0x258 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .debug_ranges  0x00000520       0xb0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .debug_ranges  0x000005d0       0x48 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+ .debug_ranges  0x00000618       0x78 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .debug_ranges  0x00000690       0x38 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(dmtimer.o)
+ .debug_ranges  0x000006c8       0x30 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(gpio.o)
+ .debug_ranges  0x000006f8       0x18 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uart.o)
+ .debug_ranges  0x00000710       0x38 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uartConsole.o)
+ .debug_ranges  0x00000748       0x10 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(watchdog.o)
+ .debug_ranges  0x00000758      0x100 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .debug_ranges  0x00000858       0x18 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(startup.o)
+ .debug_ranges  0x00000870       0x48 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cpu.o)
+
+.debug_line     0x00000000     0x2af2
+ .debug_line    0x00000000       0x7d Debug/fakeTyper.o
+ .debug_line    0x0000007d      0x122 Debug/joystick.o
+ .debug_line    0x0000019f       0xe0 Debug/leds.o
+ .debug_line    0x0000027f       0x6c Debug/main.o
+ .debug_line    0x000002eb      0x191 Debug/serial.o
+ .debug_line    0x0000047c       0xcd Debug/timers.o
+ .debug_line    0x00000549      0x2f7 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .debug_line    0x00000840      0x2fe /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .debug_line    0x00000b3e      0x741 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .debug_line    0x0000127f      0x221 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .debug_line    0x000014a0      0x1ab /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+ .debug_line    0x0000164b      0x642 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .debug_line    0x00001c8d      0x304 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(dmtimer.o)
+ .debug_line    0x00001f91      0x142 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(gpio.o)
+ .debug_line    0x000020d3      0x16a /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uart.o)
+ .debug_line    0x0000223d       0xd2 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uartConsole.o)
+ .debug_line    0x0000230f       0xdc /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(watchdog.o)
+ .debug_line    0x000023eb       0x95 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(init.o)
+ .debug_line    0x00002480      0x2bb /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .debug_line    0x0000273b       0x96 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(startup.o)
+ .debug_line    0x000027d1      0x18a /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cp15.o)
+ .debug_line    0x0000295b       0xde /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cpu.o)
+ .debug_line    0x00002a39       0xb9 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(exceptionhandler.o)
+
+.debug_str      0x00000000     0x1f15
+ .debug_str     0x00000000      0x101 Debug/fakeTyper.o
+                                0x106 (size before relaxing)
+ .debug_str     0x00000101       0xc7 Debug/joystick.o
+                                0x16f (size before relaxing)
+ .debug_str     0x000001c8       0x7d Debug/leds.o
+                                0x10f (size before relaxing)
+ .debug_str     0x00000245       0x2a Debug/main.o
+                                 0xc2 (size before relaxing)
+ .debug_str     0x0000026f       0xbd Debug/serial.o
+                                0x1b8 (size before relaxing)
+ .debug_str     0x0000032c       0xb1 Debug/timers.o
+                                0x149 (size before relaxing)
+ .debug_str     0x000003dd      0x314 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+                                0x378 (size before relaxing)
+ .debug_str     0x000006f1      0x307 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+                                0x3d1 (size before relaxing)
+ .debug_str     0x000009f8      0x87d /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+                                0x971 (size before relaxing)
+ .debug_str     0x00001275      0x268 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+                                0x330 (size before relaxing)
+ .debug_str     0x000014dd      0x168 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+                                0x291 (size before relaxing)
+ .debug_str     0x00001645      0x1a1 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+                                0x2ae (size before relaxing)
+ .debug_str     0x000017e6      0x12c /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(dmtimer.o)
+                                0x190 (size before relaxing)
+ .debug_str     0x00001912       0xad /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(gpio.o)
+                                0x179 (size before relaxing)
+ .debug_str     0x000019bf       0x5f /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uart.o)
+                                0x12b (size before relaxing)
+ .debug_str     0x00001a1e       0xa3 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uartConsole.o)
+                                0x1a5 (size before relaxing)
+ .debug_str     0x00001ac1       0x50 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(watchdog.o)
+                                0x11c (size before relaxing)
+ .debug_str     0x00001b11      0x2f5 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+                                0x387 (size before relaxing)
+ .debug_str     0x00001e06       0x70 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(startup.o)
+                                0x13c (size before relaxing)
+ .debug_str     0x00001e76       0x9f /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cpu.o)
+                                0x14e (size before relaxing)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 Debug/fakeTyper.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 Debug/joystick.o
+ .comment       0x00000000       0x71 Debug/leds.o
+ .comment       0x00000000       0x71 Debug/main.o
+ .comment       0x00000000       0x71 Debug/serial.o
+ .comment       0x00000000       0x71 Debug/timers.o
+ .comment       0x00000000       0x71 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .comment       0x00000000       0x71 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .comment       0x00000000       0x71 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .comment       0x00000000       0x71 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .comment       0x00000000       0x71 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+ .comment       0x00000000       0x71 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .comment       0x00000000       0x71 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(dmtimer.o)
+ .comment       0x00000000       0x71 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(gpio.o)
+ .comment       0x00000000       0x71 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uart.o)
+ .comment       0x00000000       0x71 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uartConsole.o)
+ .comment       0x00000000       0x71 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(watchdog.o)
+ .comment       0x00000000       0x71 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .comment       0x00000000       0x71 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(startup.o)
+ .comment       0x00000000       0x71 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cpu.o)
+
+.ARM.attributes
+                0x00000000       0x3b
+ .ARM.attributes
+                0x00000000       0x37 Debug/fakeTyper.o
+ .ARM.attributes
+                0x00000037       0x37 Debug/joystick.o
+ .ARM.attributes
+                0x0000006e       0x37 Debug/leds.o
+ .ARM.attributes
+                0x000000a5       0x37 Debug/main.o
+ .ARM.attributes
+                0x000000dc       0x37 Debug/serial.o
+ .ARM.attributes
+                0x00000113       0x37 Debug/timers.o
+ .ARM.attributes
+                0x0000014a       0x37 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .ARM.attributes
+                0x00000181       0x37 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .ARM.attributes
+                0x000001b8       0x37 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .ARM.attributes
+                0x000001ef       0x37 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .ARM.attributes
+                0x00000226       0x37 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+ .ARM.attributes
+                0x0000025d       0x37 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .ARM.attributes
+                0x00000294       0x37 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(dmtimer.o)
+ .ARM.attributes
+                0x000002cb       0x37 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(gpio.o)
+ .ARM.attributes
+                0x00000302       0x37 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uart.o)
+ .ARM.attributes
+                0x00000339       0x37 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uartConsole.o)
+ .ARM.attributes
+                0x00000370       0x37 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(watchdog.o)
+ .ARM.attributes
+                0x000003a7       0x23 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(init.o)
+ .ARM.attributes
+                0x000003ca       0x3d /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .ARM.attributes
+                0x00000407       0x3d /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(startup.o)
+ .ARM.attributes
+                0x00000444       0x23 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cp15.o)
+ .ARM.attributes
+                0x00000467       0x3d /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cpu.o)
+ .ARM.attributes
+                0x000004a4       0x23 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(exceptionhandler.o)
+ .ARM.attributes
+                0x000004c7       0x18 /home/sunny/cmpt433/linaro-gcc/gcc-arm-none-eabi-4_7-2012q4/lib/gcc/arm-none-eabi/4.7.3//libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x000004df       0x18 /home/sunny/cmpt433/linaro-gcc/gcc-arm-none-eabi-4_7-2012q4/lib/gcc/arm-none-eabi/4.7.3//libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x000004f7       0x18 /home/sunny/cmpt433/linaro-gcc/gcc-arm-none-eabi-4_7-2012q4/lib/gcc/arm-none-eabi/4.7.3//libgcc.a(_dvmd_tls.o)
+
+.debug_frame    0x00000000     0x1b9c
+ .debug_frame   0x00000000       0x74 Debug/fakeTyper.o
+ .debug_frame   0x00000074       0x5c Debug/joystick.o
+ .debug_frame   0x000000d0       0x98 Debug/leds.o
+ .debug_frame   0x00000168       0x2c Debug/main.o
+ .debug_frame   0x00000194       0x9c Debug/serial.o
+ .debug_frame   0x00000230       0xe8 Debug/timers.o
+ .debug_frame   0x00000318      0x2b4 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(dmtimer.o)
+ .debug_frame   0x000005cc      0x2c8 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(gpio_v2.o)
+ .debug_frame   0x00000894      0x778 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(uart_irda_cir.o)
+ .debug_frame   0x0000100c      0x228 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/drivers/Debug/libdrivers.a(watchdog.o)
+ .debug_frame   0x00001234      0x108 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(consoleUtils.o)
+ .debug_frame   0x0000133c      0x1a8 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/utils/Debug/libutils.a(uartStdio.o)
+ .debug_frame   0x000014e4       0xa0 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(dmtimer.o)
+ .debug_frame   0x00001584       0x88 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(gpio.o)
+ .debug_frame   0x0000160c       0x40 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uart.o)
+ .debug_frame   0x0000164c       0xb8 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(uartConsole.o)
+ .debug_frame   0x00001704       0x28 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/beaglebone/platform/Debug/libplatform.a(watchdog.o)
+ .debug_frame   0x0000172c      0x314 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(interrupt.o)
+ .debug_frame   0x00001a40       0x48 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(startup.o)
+ .debug_frame   0x00001a88       0xd4 /home/sunny/cmpt433/AM335X_StarterWare_02_00_01_01//binary/armv7a/gcc/am335x/system_config/Debug/libsystem_config.a(cpu.o)
+ .debug_frame   0x00001b5c       0x20 /home/sunny/cmpt433/linaro-gcc/gcc-arm-none-eabi-4_7-2012q4/lib/gcc/arm-none-eabi/4.7.3//libgcc.a(_udivsi3.o)
+ .debug_frame   0x00001b7c       0x20 /home/sunny/cmpt433/linaro-gcc/gcc-arm-none-eabi-4_7-2012q4/lib/gcc/arm-none-eabi/4.7.3//libgcc.a(_divsi3.o)

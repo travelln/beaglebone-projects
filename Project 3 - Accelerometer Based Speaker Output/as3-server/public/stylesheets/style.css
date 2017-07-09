@@ -1,0 +1,14 @@
+
+#content {
+	width: 550px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#messages {
+	height: 300px;
+	overflow: auto;
+	background-color: #eee;
+	margin-bottom: 1em;
+	margin-right: 10px;
+}

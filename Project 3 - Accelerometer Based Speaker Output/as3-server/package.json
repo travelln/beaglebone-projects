@@ -1,0 +1,9 @@
+{
+	"name": "beatbox-server",
+	"version": "0.0.1",
+	"description": "An interface for the beatbox application on the Beaglebone Green",
+	"dependencies": {
+		"socket.io": "~0.9.6",
+		"mime": "~1.2.7"
+	}
+}

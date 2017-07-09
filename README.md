@@ -7,11 +7,13 @@ Various projects that utilize low level hardware instructions to interface with 
 	* "count"   -- show # primes found.
 	* "get 10"  -- display prime # 10.
 	* "last 2"  -- display the last 2 primes found.
-	* irst 5" -- display the first 5 primes found.
-	* top"    -- cause the server program to end.
+	* "first 5" -- display the first 5 primes found.
+	* "stop"    -- cause the server program to end.
 
-* Project 3 - A
+* Project 3 - Produces sounds to the beaglebone capes speaker based on the accelerometer's detected movement.
 
-* Project 4 - 
+* Project 4 - A driver to flash leds based on input values consisting of characters a-z or A-Z. Characters are translated into morse code values and displayed as flashes to the LED.
+ 	* This driver also outputs stats to /proc/morse-code
+	 * example usage: echo hello world > /dev/morse-code
 
 * Project 5 - 

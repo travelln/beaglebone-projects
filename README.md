@@ -10,7 +10,7 @@ Various projects that utilize low level hardware instructions to interface with 
 	* "first 5" -- display the first 5 primes found.
 	* "stop"    -- cause the server program to end.
 
-* Project 3 - Produces sounds to the beaglebone capes speaker based on the accelerometer's detected movement.
+* Project 3 - Produces sounds to the beaglebone capes speaker based on the accelerometer's detected movement - drum machine.
 
 * Project 4 - A driver to flash leds based on input values consisting of characters a-z or A-Z. Characters are translated into morse code values and displayed as flashes to the LED.
  	* This driver also outputs stats to /proc/morse-code

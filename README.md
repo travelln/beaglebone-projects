@@ -14,6 +14,7 @@ Various projects that utilize low level hardware instructions to interface with 
 
 * Project 4 - A driver to flash leds based on input values consisting of characters a-z or A-Z. Characters are translated into morse code values and displayed as flashes to the LED.
  	* This driver also outputs stats to /proc/morse-code
-	 * example usage: echo hello world > /dev/morse-code
+	 * example usage: $ echo 'hello world' | sudo tee /dev/morse-code
+	 		  $ sudo cat /dev/morse-code 
 
 * Project 5 -  Baremetal application that uses the watchdog timer,led, joystick and user input to flash leds and display options to the user.
